@@ -18,7 +18,7 @@
 
 # Installation  
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/oxzygen/OxygenUI/ui/oxygen.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/oxzygen/OxygenUI/refs/heads/main/ui/oxygen.lua"))()
 ```
 
 # Usage
